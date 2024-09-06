@@ -8,7 +8,7 @@
 
 ## [데이터셋](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/Soccer_player_data.csv)
 - 축구선수들의 [축구화 정보를 담은 사이트](https://www.footballbootsdb.com/)에서 15571명의 축구선수 [데이터셋](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/football_data.csv)을 구성
--  나무위키 [십자인대를 다친 축구선수의 목록](https://namu.wiki/w/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80%EB%A5%BC%20%EB%8B%A4%EC%B9%9C%20%EC%9C%A0%EB%AA%85%EC%9D%B8%EB%93%A4#s-2.1)을 통해 [ACL](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/player_acl.csv) 0 or 1 라벨링하여 데이터셋 전처리
+-  나무위키 [십자인대를 다친 축구선수의 목록](https://namu.wiki/w/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80%EB%A5%BC%20%EB%8B%A4%EC%B9%9C%20%EC%9C%A0%EB%AA%85%EC%9D%B8%EB%93%A4#s-2.1)을 통해 [ACL](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/player_acl.csv) 0 or 1 라벨링하여 데이터셋 전처리(현재 활동중이거나 최근에 은퇴한 축구선수의 목록을 정리하여 GPT를 통해 외국어 이름으로 변경 후 전처리)
 
 
 ## 프로젝트
