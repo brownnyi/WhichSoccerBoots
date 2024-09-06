@@ -6,9 +6,9 @@
 ## 프로젝트 목적
 - 축구와 같은 방향 전환이 많은 스포츠는 십자인대 다친 환자들에게 재발 위험이 있지만, 많은 사람들이 좋아하는 스포츠인 만큼 축구화 정보를 얻어 다시 다치는 것을 방지하고자 함
 
-## 데이터셋
+## [데이터셋](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/Soccer_player_data.csv)
 - 축구선수들의 [축구화 정보를 담은 사이트](https://www.footballbootsdb.com/)에서 15571명의 축구선수 [데이터셋](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/football_data.csv)을 구성
--  나무위키 [십자인대를 다친 축구선수의 목록](https://namu.wiki/w/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80%EB%A5%BC%20%EB%8B%A4%EC%B9%9C%20%EC%9C%A0%EB%AA%85%EC%9D%B8%EB%93%A4#s-2.1)을 통해 [ACL](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/player_acl.csv) O or X 라벨링하여 데이터셋 전처리
+-  나무위키 [십자인대를 다친 축구선수의 목록](https://namu.wiki/w/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80/%EC%8B%AD%EC%9E%90%EC%9D%B8%EB%8C%80%EB%A5%BC%20%EB%8B%A4%EC%B9%9C%20%EC%9C%A0%EB%AA%85%EC%9D%B8%EB%93%A4#s-2.1)을 통해 [ACL](https://github.com/brownnyi/WhichSoccerBoots/blob/main/data/player_acl.csv) 0 or 1 라벨링하여 데이터셋 전처리
 
 
 ## 프로젝트
